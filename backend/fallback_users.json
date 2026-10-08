@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "PaintCorp Administrator",
+    "email": "admin@paintcorp.com",
+    "password": "$2a$10$O.LDGpxVYYbn3QjyZSbW9OnByYXt5KU72MhxtbhCpMbnTqUta7RjC",
+    "role": "Administrator",
+    "mobile": "9876543210",
+    "username": "erp_admin",
+    "avatar": "",
+    "two_factor_enabled": 0
+  },
+  {
+    "id": 2,
+    "name": "Arun Kumar",
+    "email": "arun.kumar@paintcorp.com",
+    "password": "$2a$10$1S2yAggPWbEjCcKtOoBhjuc.bSWSHM./DXvdVLke45l2p/AlBxWnK",
+    "role": "Manager",
+    "mobile": "9842156732",
+    "username": "arun_manager",
+    "avatar": "",
+    "two_factor_enabled": 1
+  },
+  {
+    "id": 3,
+    "name": "Priya Raj",
+    "email": "priya.raj@paintcorp.com",
+    "password": "$2a$10$1S2yAggPWbEjCcKtOoBhjuc.bSWSHM./DXvdVLke45l2p/AlBxWnK",
+    "role": "Staff",
+    "mobile": "9791543287",
+    "username": "priya_staff",
+    "avatar": "",
+    "two_factor_enabled": 0
+  },
+  {
+    "id": 4,
+    "name": "Suresh Balan",
+    "email": "suresh.balan@paintcorp.com",
+    "password": "$2a$10$1S2yAggPWbEjCcKtOoBhjuc.bSWSHM./DXvdVLke45l2p/AlBxWnK",
+    "role": "Warehouse Manager",
+    "mobile": "9894567123",
+    "username": "suresh_warehouse",
+    "avatar": "",
+    "two_factor_enabled": 0
+  },
+  {
+    "id": 5,
+    "name": "Divya Krishnan",
+    "email": "divya.krishnan@paintcorp.com",
+    "password": "$2a$10$1S2yAggPWbEjCcKtOoBhjuc.bSWSHM./DXvdVLke45l2p/AlBxWnK",
+    "role": "Sales",
+    "mobile": "9361024587",
+    "username": "divya_sales",
+    "avatar": "",
+    "two_factor_enabled": 0
+  },
+  {
+    "id": 6,
+    "name": "M.Lakshmana Perumal",
+    "email": "perumalmlakshmana5@gmail.com",
+    "password": "$2a$10$zqNMTECGHMwcwWWvpQcCw.D9IIj8yxRzzWQr86O3rzj/FRyzMz5YS",
+    "role": "Staff",
+    "mobile": "+919486721134",
+    "username": "perumalmlakshmana5_753",
+    "avatar": "",
+    "two_factor_enabled": 0
+  },
+  {
+    "id": 7,
+    "name": "Lakshmana Perumal",
+    "email": "plakshmana22@gmail.com",
+    "password": "$2a$10$zqNMTECGHMwcwWWvpQcCw.D9IIj8yxRzzWQr86O3rzj/FRyzMz5YS",
+    "role": "Administrator",
+    "mobile": "+919486721134",
+    "username": "plakshmana22_admin",
+    "avatar": "",
+    "two_factor_enabled": 0
+  }
+]
